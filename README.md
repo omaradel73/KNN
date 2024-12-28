@@ -28,7 +28,7 @@ pip install numpy matplotlib seaborn scikit-learn
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omaradel73/knn-handwritten-digits.git
+   git clone https://github.com/omaradel73/KNN.git
    ```
 2. Navigate to the project directory:
    ```bash
