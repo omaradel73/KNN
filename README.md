@@ -62,6 +62,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The `scikit-learn` library for providing the KNN implementation.
 
 ## Contact
-For any questions or suggestions, please feel free to open an issue or contact the repository owner.
+For any questions or suggestions, please feel free to open an issue or contact me.
 
 ---
